@@ -1,0 +1,62 @@
+/* My CSS
+*/
+h1 {
+	text-align: center;
+	color: #ffffff;
+}
+
+body {
+	font-family: Helvetica;
+}
+
+padding: 10px; */
+
+
+}
+
+h2 {
+	margin: 10px;
+}
+
+h3 {
+	margin: 12px;
+}
+
+.lesson {
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept {
+	background-color: #294860;
+	border-radius: 20px;
+	font-weight: bold;
+	color: white;
+	padding: 10px;
+}
+
+.concept-lesson {
+	font-size: 6px;
+	font-weight: bold;
+	margin: 8px;
+	text-align: left;
+	color: #6897bb;
+}
+
+.lesson-title {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 6px;
+	text-align: left;
+	color: #000000;
+}
+
+.concept-lesson-description {
+	font-size: 14px;
+	margin: 10px;
+	text-algin: left;
+	color: #000000;
+}
